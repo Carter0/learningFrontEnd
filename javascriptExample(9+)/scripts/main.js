@@ -27,7 +27,7 @@ myList[4] = "blueberries";
 myList.pop();
 
 //Note length starts at 1 not 0
-console.log("The length of the list is: " + myList.length)
+console.log("The length of the list is: " + myList.length);
 
 myList.forEach(function (value, index) {
     console.log(value, index);

@@ -1,0 +1,14 @@
+body {
+    background: black;
+    color: cadetblue;
+}
+
+.second {
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+}
+
+.checklist {
+    font-family: 'Courier New', Courier, monospace;
+    color: aquamarine;
+}
